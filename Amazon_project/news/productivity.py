@@ -1,0 +1,37 @@
+import time
+
+
+from selenium.webdriver.common.by import By
+from selenium import webdriver
+
+
+class Product:
+    def __init__(self,driver):
+        self.driver = driver
+        # self.productivity = (By.XPATH,"//div[@class='padding-left-xsmall padding-right-xsmall flex-container flex-align-items-stretch flex-align-content-flex-start flex-full-width alexa2018 ember background-color-transparent border-color-transparent']//img[@alt='Productivity']")
+        self.alexa = (By.XPATH, "//img[@alt='Amazon Alexa Logo']")
+        self.smart=(By.XPATH,"//body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]")
+        self.device=(By.XPATH,"//div/ol[@class='a-carousel']/li")
+
+    def click_alexa(self):
+        self.driver.find_element(*self.alexa).click()
+        for i in range(0, 600, 50):
+            self.driver.execute_script("window.scrollBy(0, 50);")
+            time.sleep(0.3)
+
+        self.driver.find_element(*self.smart).click()
+        time.sleep(5)
+        for i in range(0, 1000, 50):
+            self.driver.execute_script("window.scrollBy(0, 50);")
+            time.sleep(0.3)
+    def click_device(self):
+        devices=self.driver.find_elements(*self.device)
+        count=0
+        for i in devices:
+            if count==1:
+                i.click()
+                break
+            count+=1
+
+
+
