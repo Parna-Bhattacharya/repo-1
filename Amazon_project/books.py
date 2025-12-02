@@ -26,7 +26,7 @@ class Book:
         self.tommorow = (By.XPATH, "//span[contains(text(),'Get It by Tomorrow')]")
         self.paperback = (By.XPATH,"//span[contains(text(),'Paperback')]")
         self.hardcover = (By.XPATH,"//span[@class='a-size-base a-color-base'][normalize-space()='Hardcover']")
-        self.add_buttoon=(By.XPATH,"//button[@id='a-autoid-62-announce']")
+        # self.add_buttoon=(By.XPATH,"//button[@id='a-autoid-62-announce']")
 
     def get_it_tommorow(self):
         self.driver.find_element(*self.tommorow).click()

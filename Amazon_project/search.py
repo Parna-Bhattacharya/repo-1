@@ -9,9 +9,6 @@ class AmazonPage:
         self.result_items = (By.XPATH, "//div[contains(@class, 's-result-item') and @data-asin!='']")
         self.title_xpath = ".//h2//span"
         self.price_xpath = ".//span[@class='a-price-whole']"
-        # self.price_xpath = ".//span[contains(@class,'a-price-whole') or contains(@class,'a-price') or contains(text(),'₹')]"
-
-        # self.delivery=".//div[@class='a-row a-color-base udm-primary-delivery-message']"
 
         self.add=".//button[@class='a-button-text']"
 
@@ -25,7 +22,7 @@ class AmazonPage:
 
     def get_first_product_details(self):
         products = self.driver.find_elements(*self.result_items)
-        print("Number of products found:", len(products))
+        # print("Number of products found:", len(products))
 
         if len(products) == 0:
             print("No products found!")
@@ -35,36 +32,24 @@ class AmazonPage:
             if i==1:
                 title = products[i].find_element(By.XPATH, self.title_xpath).text
                 price = products[i].find_element(By.XPATH, self.price_xpath).text
-                # deliv=products[i].find_element(By.XPATH, self.delivery).text
 
-            # all_products.append({"title": title, "price": price})
+
+
                 return title, price,#deliv
 
     def get_products_above_price(self, min_price):
         products = self.driver.find_elements(*self.result_items)
         print("Number of products found:", len(products))
 
-        all_products = []
+
 
         for product in products:
             price_text = product.find_element(By.XPATH, self.price_xpath).text.replace(",", "").strip()
             if price_text.isdigit():
                 price = int(price_text)
                 if price >= min_price:
-                    title = product.find_element(By.XPATH, self.title_xpath).text
-                    # deliv = product.find_element(By.XPATH, self.delivery).text
 
-
-                    # add to cart
                     product.find_element(By.XPATH, self.add).click()
                     time.sleep(2)
 
-                    all_products.append({
-                        "title": title,
-                        "price": price,
-                        #"delivery": deliv,
-
-                    })
-
-        return all_products
 

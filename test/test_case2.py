@@ -55,8 +55,8 @@ def test_books(driver):
     all_books=Book(driver)
     all_books.get_it_tommorow()
     time.sleep(5)
-    hardbook=HardBook(driver)
-    hardbook.get_hardbook()
+    # hardbook=HardBook(driver)
+    # hardbook.get_hardbook()
     time.sleep(5)
 def test_new(driver):
     news_page=AllClick(driver)
