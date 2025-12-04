@@ -13,4 +13,3 @@ class Cakes:
 
     def hochpochss(self):
         self.driver.find_element(*self.delivery).click()
-        time.sleep(5)

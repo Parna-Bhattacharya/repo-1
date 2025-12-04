@@ -1,0 +1,245 @@
+2025-12-04 11:22:47,992 - root - INFO - ========== Test Session Started ==========
+2025-12-04 11:22:47,992 - root - INFO - Launching browser...
+2025-12-04 11:22:51,403 - root - INFO - Waiting for Fashion button to be clickable...
+2025-12-04 11:22:58,735 - root - INFO - Fashion button is clickable. Clicking now.
+2025-12-04 11:23:03,631 - root - INFO - Waiting for Women button to be clickable...
+2025-12-04 11:23:03,712 - root - INFO - Women button is clickable. Clicking now.
+2025-12-04 11:23:09,263 - root - INFO - Waiting for 'Clothing' button to become clickable
+2025-12-04 11:23:09,357 - root - INFO - 'Clothing' button is clickable, clicking now
+2025-12-04 11:23:19,989 - root - INFO - Successfully clicked on 'Clothing' section
+2025-12-04 11:23:19,989 - root - INFO - Clicking on Ethnic Wear
+2025-12-04 11:23:23,876 - root - INFO - Finding celebrity closet image
+2025-12-04 11:23:23,931 - root - INFO - Scrolling till y position: 1646
+2025-12-04 11:23:35,536 - root - INFO - Clicked on Celebrity Closet item
+2025-12-04 11:23:35,536 - root - INFO - Clicking on Add To button
+2025-12-04 11:23:36,848 - root - INFO - Add To button clicked
+2025-12-04 11:23:36,848 - root - INFO - Waiting for 'Go to Cart' button to appear and be clickable
+2025-12-04 11:23:38,435 - root - WARNING - Stale element, retrying Go to Cart click...
+2025-12-04 11:23:40,399 - root - INFO - 'Go to Cart' clicked successfully
+2025-12-04 11:23:40,402 - root - INFO - Waiting for Cart button to be clickable...
+2025-12-04 11:23:40,598 - root - INFO - Cart button is clickable. Clicking now.
+2025-12-04 11:23:41,940 - root - INFO - Waiting for Proceed to Checkout button to be clickable...
+2025-12-04 11:23:42,043 - root - INFO - Proceed to Checkout button is clickable. Clicking now.
+2025-12-04 11:23:42,279 - root - INFO - Closing browser...
+2025-12-04 11:27:23,260 - root - INFO - ========== Test Session Started ==========
+2025-12-04 11:27:23,262 - root - INFO - Launching browser...
+2025-12-04 11:27:32,477 - root - INFO - Waiting for Fashion button to be clickable...
+2025-12-04 11:27:38,520 - root - INFO - Fashion button is clickable. Clicking now.
+2025-12-04 11:27:43,917 - root - INFO - Waiting for Women button to be clickable...
+2025-12-04 11:27:43,986 - root - INFO - Women button is clickable. Clicking now.
+2025-12-04 11:27:50,224 - root - INFO - Waiting for 'Clothing' button to become clickable
+2025-12-04 11:27:50,409 - root - INFO - 'Clothing' button is clickable, clicking now
+2025-12-04 11:27:58,715 - root - INFO - Successfully clicked on 'Clothing' section
+2025-12-04 11:27:58,715 - root - INFO - Clicking on Ethnic Wear
+2025-12-04 11:28:02,338 - root - INFO - Finding celebrity closet image
+2025-12-04 11:28:02,405 - root - INFO - Scrolling till y position: 1646
+2025-12-04 11:28:15,698 - root - INFO - Clicked on Celebrity Closet item
+2025-12-04 11:28:15,698 - root - INFO - Clicking on Add To button
+2025-12-04 11:28:16,670 - root - INFO - Add To button clicked
+2025-12-04 11:28:16,670 - root - INFO - Waiting for 'Go to Cart' button to appear and be clickable
+2025-12-04 11:28:18,517 - root - WARNING - Stale element, retrying Go to Cart click...
+2025-12-04 11:28:19,985 - root - INFO - 'Go to Cart' clicked successfully
+2025-12-04 11:28:19,985 - root - INFO - Waiting for Cart button to be clickable...
+2025-12-04 11:28:20,064 - root - INFO - Cart button is clickable. Clicking now.
+2025-12-04 11:28:21,523 - root - INFO - Waiting for Proceed to Checkout button to be clickable...
+2025-12-04 11:28:21,611 - root - INFO - Proceed to Checkout button is clickable. Clicking now.
+2025-12-04 11:28:21,826 - root - INFO - Closing browser...
+2025-12-04 11:39:11,768 - root - INFO - ========== Test Session Started ==========
+2025-12-04 11:39:11,768 - root - INFO - Launching browser...
+2025-12-04 11:39:14,526 - root - INFO - Waiting for search box...
+2025-12-04 11:39:24,214 - root - INFO - Searching for product: iPhone 17
+2025-12-04 11:39:27,033 - root - INFO - Waiting for product results...
+2025-12-04 11:39:27,350 - root - INFO - Product title: iPhone 17 Pro 256 GB: 15.93 cm (6.3\u2033) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Cosmic Orange
+2025-12-04 11:39:27,351 - root - INFO - Product price: 1,34,900
+2025-12-04 11:39:27,351 - root - INFO - Waiting for product list to load...
+2025-12-04 11:39:27,539 - root - INFO - Found product above 174900: 174900 \u2192 Clicking Add button
+2025-12-04 11:39:27,876 - root - INFO - Product added successfully.
+2025-12-04 11:39:28,093 - root - INFO - Found product above 174900: 229900 \u2192 Clicking Add button
+2025-12-04 11:39:28,681 - root - INFO - Product added successfully.
+2025-12-04 11:39:28,878 - root - INFO - Found product above 174900: 189900 \u2192 Clicking Add button
+2025-12-04 11:39:29,246 - root - INFO - Product added successfully.
+2025-12-04 11:39:29,477 - root - INFO - Found product above 174900: 174900 \u2192 Clicking Add button
+2025-12-04 11:39:29,708 - root - INFO - Product added successfully.
+2025-12-04 11:39:30,455 - root - INFO - Closing browser...
+2025-12-04 11:40:13,514 - root - INFO - ========== Test Session Started ==========
+2025-12-04 11:40:13,514 - root - INFO - Launching browser...
+2025-12-04 11:40:22,005 - root - INFO - Clicked on 'All' menu
+2025-12-04 11:40:24,238 - root - INFO - Clicked on 'See All Categories'
+2025-12-04 11:40:26,474 - root - INFO - Clicked on 'Books' category
+2025-12-04 11:40:29,958 - root - INFO - Clicked on 'Indian Language Books'
+2025-12-04 11:40:38,256 - root - INFO - Searched for Indian book: ramayan
+2025-12-04 11:40:56,789 - root - INFO - Closing browser...
+2025-12-04 12:24:12,362 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:24:12,362 - root - INFO - Launching browser...
+2025-12-04 12:24:20,935 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:24:27,392 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:24:28,437 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:24:33,613 - root - INFO - Waiting for 'Alexa Skills' link
+2025-12-04 12:24:33,674 - root - INFO - Clicking on 'Alexa Skills'
+2025-12-04 12:24:35,283 - root - INFO - Closing browser...
+2025-12-04 12:26:39,676 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:26:39,676 - root - INFO - Launching browser...
+2025-12-04 12:26:42,576 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:26:48,435 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:26:49,857 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:26:55,052 - root - INFO - Waiting for 'Alexa Skills' link
+2025-12-04 12:26:55,119 - root - INFO - Clicking on 'Alexa Skills'
+2025-12-04 12:26:56,630 - root - INFO - Closing browser...
+2025-12-04 12:30:30,242 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:30:30,242 - root - INFO - Launching browser...
+2025-12-04 12:30:33,262 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:30:40,284 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:30:41,330 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:30:46,504 - root - INFO - Waiting for 'Alexa Skills' link
+2025-12-04 12:30:48,003 - root - INFO - Closing browser...
+2025-12-04 12:33:01,011 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:33:01,017 - root - INFO - Launching browser...
+2025-12-04 12:33:16,488 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:33:17,230 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:33:18,493 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:33:38,410 - root - INFO - click Alexa
+2025-12-04 12:33:43,761 - root - INFO - click smart
+2025-12-04 12:33:50,129 - root - INFO - click devices
+2025-12-04 12:34:11,965 - root - INFO - Clicking on go_to_cart Menu
+2025-12-04 12:34:22,257 - root - INFO - Closing browser...
+2025-12-04 12:40:00,374 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:40:00,376 - root - INFO - Launching browser...
+2025-12-04 12:40:04,621 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:40:12,095 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:40:13,032 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:40:32,731 - root - INFO - click Alexa
+2025-12-04 12:40:38,125 - root - INFO - click smart
+2025-12-04 12:40:44,582 - root - INFO - click devices
+2025-12-04 12:41:15,646 - root - INFO - Closing browser...
+2025-12-04 12:49:41,540 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:49:41,540 - root - INFO - Launching browser...
+2025-12-04 12:49:44,862 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:49:51,894 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:49:52,874 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:50:13,057 - root - INFO - click Alexa
+2025-12-04 12:50:18,582 - root - INFO - click smart
+2025-12-04 12:50:24,916 - root - INFO - click devices
+2025-12-04 12:50:55,759 - root - INFO - Closing browser...
+2025-12-04 12:51:33,656 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:51:33,656 - root - INFO - Launching browser...
+2025-12-04 12:51:37,488 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:51:45,010 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:51:46,016 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:52:07,446 - root - INFO - click Alexa
+2025-12-04 12:52:13,967 - root - INFO - click smart
+2025-12-04 12:52:20,270 - root - INFO - click devices
+2025-12-04 12:53:03,213 - root - INFO - Closing browser...
+2025-12-04 12:53:34,147 - root - INFO - ========== Test Session Started ==========
+2025-12-04 12:53:34,147 - root - INFO - Launching browser...
+2025-12-04 12:53:37,709 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 12:53:45,488 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 12:53:46,502 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 12:54:07,142 - root - INFO - click Alexa
+2025-12-04 12:54:13,531 - root - INFO - click smart
+2025-12-04 12:54:19,849 - root - INFO - click devices
+2025-12-04 12:54:58,158 - root - INFO - Closing browser...
+2025-12-04 13:12:39,690 - root - INFO - ========== Test Session Started ==========
+2025-12-04 13:12:39,690 - root - INFO - Launching browser...
+2025-12-04 13:12:45,840 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 13:12:53,382 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 13:12:54,365 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 13:13:14,887 - root - INFO - click Alexa
+2025-12-04 13:13:20,357 - root - INFO - click smart
+2025-12-04 13:13:26,749 - root - INFO - click devices
+2025-12-04 13:14:01,256 - root - INFO - Closing browser...
+2025-12-04 13:14:49,606 - root - INFO - ========== Test Session Started ==========
+2025-12-04 13:14:49,606 - root - INFO - Launching browser...
+2025-12-04 13:14:53,073 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 13:14:59,671 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 13:15:00,646 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 13:15:20,535 - root - INFO - click Alexa
+2025-12-04 13:15:25,776 - root - INFO - click smart
+2025-12-04 13:15:32,080 - root - INFO - click devices
+2025-12-04 13:16:06,880 - root - INFO - Clicking on go_to_cart Menu
+2025-12-04 13:16:11,881 - root - INFO - Clicking on electronics Menu
+2025-12-04 13:16:31,416 - root - INFO - Clicking on watches Menu
+2025-12-04 13:16:42,012 - root - INFO - Closing browser...
+2025-12-04 14:07:15,172 - root - INFO - ========== Test Session Started ==========
+2025-12-04 14:07:15,172 - root - INFO - Launching browser...
+2025-12-04 14:07:27,665 - root - INFO - Clicking on Hamburger Menu
+2025-12-04 14:07:33,980 - root - INFO - Waiting for 'Echo & Alexa' option
+2025-12-04 14:07:34,935 - root - INFO - Clicking on 'Echo & Alexa'
+2025-12-04 14:07:56,231 - root - INFO - click Alexa
+2025-12-04 14:08:02,244 - root - INFO - click smart
+2025-12-04 14:08:08,585 - root - INFO - click devices
+2025-12-04 14:08:44,435 - root - INFO - Clicking on go_to_cart Menu
+2025-12-04 14:08:49,437 - root - INFO - Clicking on electronics Menu
+2025-12-04 14:09:07,968 - root - INFO - Clicking on watches Menu
+2025-12-04 14:09:19,905 - root - INFO - Closing browser...
+2025-12-04 14:23:18,702 - root - INFO - ========== Test Session Started ==========
+2025-12-04 14:23:18,702 - root - INFO - Launching browser...
+2025-12-04 14:23:21,596 - root - INFO - Searching for headphone: headphone brands
+2025-12-04 14:23:33,830 - root - INFO - Clicked Noise brand
+2025-12-04 14:23:33,830 - root - INFO - Finding products with 69% off
+2025-12-04 14:23:35,961 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:23:36,354 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:23:36,964 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:23:37,318 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:23:39,530 - root - INFO - Closing browser...
+2025-12-04 14:26:30,361 - root - INFO - ========== Test Session Started ==========
+2025-12-04 14:26:30,361 - root - INFO - Launching browser...
+2025-12-04 14:26:40,532 - root - INFO - Searching for headphone: headphone brands
+2025-12-04 14:26:55,257 - root - INFO - Clicked Noise brand
+2025-12-04 14:26:55,257 - root - INFO - Finding products with 69% off
+2025-12-04 14:26:56,349 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:26:57,500 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:26:57,984 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:26:57,984 - root - INFO - Total 69% off products = 3
+2025-12-04 14:26:57,986 - root - INFO - Closing browser...
+2025-12-04 14:27:06,023 - root - INFO - ========== Test Session Started ==========
+2025-12-04 14:27:06,023 - root - INFO - Launching browser...
+2025-12-04 14:27:08,929 - root - INFO - Searching for headphone: headphone brands
+2025-12-04 14:27:18,478 - root - INFO - Clicked Noise brand
+2025-12-04 14:27:18,478 - root - INFO - Finding products with 69% off
+2025-12-04 14:27:20,394 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:27:20,731 - root - INFO - Added product with 69% off to cart
+2025-12-04 14:27:20,731 - root - INFO - Total 69% off products = 2
+2025-12-04 14:27:20,731 - root - INFO - Closing browser...
+2025-12-04 15:12:13,232 - root - INFO - ========== Test Session Started ==========
+2025-12-04 15:12:13,233 - root - INFO - Launching browser...
+2025-12-04 15:12:43,600 - root - INFO - Scrolling to footer...
+2025-12-04 15:12:43,812 - root - INFO - Waiting to click country option...
+2025-12-04 15:12:52,389 - root - INFO - Clicked on country change option.
+2025-12-04 15:12:52,391 - root - INFO - Clicking dropdown...
+2025-12-04 15:12:52,588 - root - INFO - Waiting for country options...
+2025-12-04 15:12:52,661 - root - INFO - Found option: Australia
+2025-12-04 15:12:52,689 - root - INFO - Found option: Belgium (Belgique)
+2025-12-04 15:12:52,738 - root - INFO - Found option: Brazil (Brasil)
+2025-12-04 15:12:52,794 - root - INFO - Found option: Canada
+2025-12-04 15:12:52,821 - root - INFO - Found option: China (\u4e2d\u56fd)
+2025-12-04 15:12:52,853 - root - INFO - Found option: Egypt (\u0645\u0635\u0631)
+2025-12-04 15:12:52,884 - root - INFO - Found option: France
+2025-12-04 15:12:52,911 - root - INFO - Found option: Germany (Deutschland)
+2025-12-04 15:12:52,957 - root - INFO - Found option: India
+2025-12-04 15:12:53,012 - root - INFO - Found option: Ireland
+2025-12-04 15:12:53,050 - root - INFO - Found option: Italy (Italia)
+2025-12-04 15:12:53,074 - root - INFO - Found option: Japan (\u65e5\u672c)
+2025-12-04 15:12:53,106 - root - INFO - Found option: Mexico (México)
+2025-12-04 15:12:53,136 - root - INFO - Found option: Netherlands (Nederland)
+2025-12-04 15:12:53,171 - root - INFO - Found option: Poland (Polska)
+2025-12-04 15:12:53,205 - root - INFO - Found option: Saudi Arabia (\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629)
+2025-12-04 15:12:53,237 - root - INFO - Found option: Singapore
+2025-12-04 15:12:53,265 - root - INFO - Found option: South Africa
+2025-12-04 15:12:53,296 - root - INFO - Found option: Spain (España)
+2025-12-04 15:12:53,332 - root - INFO - Found option: Sweden (Sverige)
+2025-12-04 15:12:53,365 - root - INFO - Found option: Turkey (Türkiye)
+2025-12-04 15:12:53,422 - root - INFO - Found option: United Arab Emirates
+2025-12-04 15:12:53,452 - root - INFO - Found option: United Kingdom
+2025-12-04 15:12:53,498 - root - INFO - Found option: United States
+2025-12-04 15:12:53,524 - root - INFO - Clicking on 'United States'
+2025-12-04 15:12:53,562 - root - INFO - Saving selected country...
+2025-12-04 15:13:09,150 - root - INFO - Closing browser...
+2025-12-04 15:13:31,394 - root - INFO - ========== Test Session Started ==========
+2025-12-04 15:13:31,394 - root - INFO - Launching browser...
+2025-12-04 15:14:22,225 - root - INFO - Closing browser...
+2025-12-04 15:15:23,549 - root - INFO - ========== Test Session Started ==========
+2025-12-04 15:15:23,549 - root - INFO - Launching browser...
+2025-12-04 15:17:11,842 - root - INFO - Closing browser...
+2025-12-04 15:18:26,962 - root - INFO - ========== Test Session Started ==========
+2025-12-04 15:18:26,962 - root - INFO - Launching browser...
+2025-12-04 15:19:11,659 - root - INFO - Closing browser...

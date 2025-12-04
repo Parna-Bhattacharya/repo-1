@@ -15,9 +15,10 @@ class Cake:
 
     def hochpoch(self):
         range=self.driver.find_elements(*self.ranges)
-        for i in range:
-            if i.text=="over ₹400":
-                i.click()
+        range[2].click()
+        # for i in range:
+        #     if i.text=="over ₹400":
+        #         i.click()
 
         # self.driver.find_element(*self.brand).click()
         # time.sleep(3)

@@ -1,6 +1,10 @@
 import time
 
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+import logging
+
+from selenium.webdriver.support.wait import WebDriverWait
 
 
 class FreshVegetable:
@@ -9,6 +13,7 @@ class FreshVegetable:
         self.fresh=(By.XPATH,"//button[@aria-label='Fresh Details']")
         self.fresh_=(By.XPATH,"//img[@alt='Amazon Fresh']")
         self.cake=(By.XPATH,"//input[@id='twotabsearchtextbox']")
+        self.wait=WebDriverWait(self.driver,10)
 
     def click_fresh(self):
         self.driver.find_element(*self.fresh).click()
