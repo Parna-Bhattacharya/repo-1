@@ -28,7 +28,7 @@ class AmazonPage:
 
         if len(products) == 0:
             logging.warning("No products found!")
-            return "No title", "No price"
+            return "NO TITLE","NO PRICE"
 
         for i in range(len(products)):
             if i == 1:

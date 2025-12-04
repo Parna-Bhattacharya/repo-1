@@ -43,44 +43,44 @@ def test_fashion(driver):
 def test_books(driver):
     all_find=AllPage(driver)
     all_find.all_clicking()
-    time.sleep(2)
+
     all_find.see_all_clicking()
-    time.sleep(2)
+
     all_find.book_clicking()
-    # time.sleep(10)
+
     all_find.indian_book_clicking()
-    time.sleep(5)
+
     all_find.search_indian_book("ramayan")
-    time.sleep(3)
+
     all_books=Book(driver)
     all_books.get_it_tommorow()
-    time.sleep(5)
+
     # hardbook=HardBook(driver)
     # hardbook.get_hardbook()
-    time.sleep(5)
+
 def test_new(driver):
     news_page=AllClick(driver)
     news_page.news()
-    time.sleep(5)
+
     news_page.echo()
-    time.sleep(5)
+
     # prime=Product(driver)
     # prime.products()
-    time.sleep(5)
+
     alexas=Product(driver)
     alexas.click_alexa()
     alexas.click_device()
-    time.sleep(5)
+
     over=Popovers(driver)
     over.click_popover()
-    time.sleep(5)
+
     go=GoToCart(driver)
     go.go_to()
-    time.sleep(5)
+
     go.electronics()
-    time.sleep(5)
+
     go.watches()
-    time.sleep(5)
+
 def test_headphone(driver):
     boat=Brand(driver)
     boat.search("headphone brands")
@@ -93,18 +93,18 @@ def test_location(driver):
     usas.choose_location()
     black=BlackFriday(driver)
     black.change_address()
-    time.sleep(5)
+
 def test_nav(driver):
     dealing=Deal(driver)
     dealing.today_deal()
     clicking=EarlyDeal(driver)
     clicking.early_deal()
     clicking.click_element()
-    time.sleep(5)
+
     tvs=Tv(driver)
     tvs.tv_deal()
-    time.sleep(5)
+
     tvs.exchange()
-    time.sleep(5)
+
 
 
